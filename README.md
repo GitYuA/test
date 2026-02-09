@@ -104,5 +104,3 @@ chmod +x /etc/init.d/openlist
 * 确认 Alpine 是否已安装 `ca-certificates` 以支持 HTTPS 连接：`apk add ca-certificates`。
 
 ---
-
-**需要我帮您补充如何配置 Nginx 反向代理以实现域名访问吗？**
